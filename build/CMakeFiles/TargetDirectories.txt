@@ -1,3 +1,0 @@
-/home/ahmed4/cpp/word2vec.cpp/build/CMakeFiles/vec.dir
-/home/ahmed4/cpp/word2vec.cpp/build/CMakeFiles/edit_cache.dir
-/home/ahmed4/cpp/word2vec.cpp/build/CMakeFiles/rebuild_cache.dir
